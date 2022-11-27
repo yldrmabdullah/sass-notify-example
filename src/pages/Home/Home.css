@@ -1,0 +1,18 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home h1 {
+  color: rgb(0, 255, 255);
+}
+.home button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}/*# sourceMappingURL=Home.css.map */
